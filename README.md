@@ -118,17 +118,6 @@ python main.py --port 8080 --share --debug
 - Configurable access controls
 - Audit logging for system operations
 
-## 🤝 Contributing
-
-1. Follow the existing code structure and patterns
-2. Add comprehensive docstrings and comments
-3. Test new features thoroughly
-4. Update documentation as needed
-
-## 📄 License
-
-This project is created for educational and internal use at Nestlé.
-
 ## 🆘 Support
 
 For setup assistance, see [SETUP.md](SETUP.md) or check the application logs in the `logs/` directory.
