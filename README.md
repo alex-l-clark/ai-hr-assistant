@@ -121,7 +121,3 @@ python main.py --port 8080 --share --debug
 ## 🆘 Support
 
 For setup assistance, see [SETUP.md](SETUP.md) or check the application logs in the `logs/` directory.
-
----
-
-**Note**: This AI assistant is designed to provide information based on official HR documents. For sensitive matters or official decisions, always consult directly with the HR department.
